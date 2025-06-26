@@ -6,12 +6,11 @@ This project is a **role-based AI chat interface** built with **React.js**, **Ta
 
 ## 🧰 Technologies Used
 
-- React.js (Vite or CRA)
+- React.js
 - Tailwind CSS
 - Redux Toolkit
 - RTK Query
 - React Router
-- Axios (for auth if needed)
 
 ---
 
@@ -20,9 +19,6 @@ This project is a **role-based AI chat interface** built with **React.js**, **Ta
 - 🔐 JWT Login (email/password)
 - 🧠 Chat with AI agents (`Chartwright`, `TranscriptX`, etc.)
 - 📩 Message submission & reply handling
-- 📥 Chat history (loaded from backend)
-- 🌙 Dark mode-ready Tailwind styling
-- 🧪 API error handling with status feedback
 
 ---
 
